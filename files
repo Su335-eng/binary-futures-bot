@@ -1,0 +1,5 @@
+src/market_orders.py
+src/limit_orders.py
+bot.log
+README.md
+report.pdf
