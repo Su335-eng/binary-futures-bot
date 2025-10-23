@@ -1,0 +1,7 @@
+binary-futures-bot/
+├── src/
+│   ├── market_orders.py
+│   └── limit_orders.py
+├── bot.log
+├── README.md
+└── report.pdf  ← create manually
